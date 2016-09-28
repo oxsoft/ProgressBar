@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProgressBar</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="second_activity">SecondActivity</string>
+    <string name="open_second">open second</string>
+    <string name="hide_progress_bar">hide progress bar</string>
+    <string name="show_progress_bar">show progress bar</string>
+</resources>
